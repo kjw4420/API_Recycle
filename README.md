@@ -14,6 +14,7 @@ POST 요청으로 재활용품 사진을 넣으면 객체인식 결과를 도출
 ## Reference: 
 -https://github.com/robmarkcole/yolov5-flask(this repo was forked from here)
 
+##
 
 # Yolov5 object detection model deployment using flask
 This repo contains example apps for exposing the [yolo5](https://github.com/ultralytics/yolov5) object detection model from [pytorch hub](https://pytorch.org/hub/ultralytics_yolov5/) via a [flask](https://flask.palletsprojects.com/en/1.1.x/) api/app.
