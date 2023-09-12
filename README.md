@@ -1,3 +1,10 @@
+# 나는야 분리수거를 잘하는 어린이 재활용품 객체인식 Yolov5 api using flask
+본 Recycle_api는 https://github.com/robmarkcole/yolov5-flask를 참조하여 **나는야 분리수거를 잘하는 어린이 재활용품**에 필요한 형태로 수정하였다.
+
+## Reference: https://github.com/robmarkcole/yolov5-flask
+
+
+## Web app
 # Yolov5 object detection model deployment using flask
 This repo contains example apps for exposing the [yolo5](https://github.com/ultralytics/yolov5) object detection model from [pytorch hub](https://pytorch.org/hub/ultralytics_yolov5/) via a [flask](https://flask.palletsprojects.com/en/1.1.x/) api/app.
 
