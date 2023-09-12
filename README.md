@@ -2,6 +2,15 @@
 본 Recycle_api는 https://github.com/robmarkcole/yolov5-flask를 참조하여 **나는야 분리수거를 잘하는 어린이 재활용품**에 필요한 형태로 수정하였다.
 
 POST 요청으로 재활용품 사진을 넣으면 객체인식 결과를 도출한다.
+## restapi.py: 데이터 출력 형식 수정
+**predict()함수**에 아래 코드 추가
+```
+        index=results.rindex('{')
+        res={
+            'name': results[index:-1]
+        }
+        return jsonify(res)
+```
 
 ## Postman api 요청 test
 <img width="411" alt="glass" src="https://github.com/kjw4420/Recycle/assets/97749184/2c5943b5-b744-49ae-8f8f-b4176061a14d"><br>
