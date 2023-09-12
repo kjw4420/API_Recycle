@@ -5,10 +5,10 @@ POST 요청으로 재활용품 사진을 넣으면 객체인식 결과를 도출
 
 ## Postman api 요청 test
 <img width="411" alt="glass" src="https://github.com/kjw4420/Recycle/assets/97749184/2c5943b5-b744-49ae-8f8f-b4176061a14d"><br>
-     **glass.png**
+               **glass.png**
 
 <img width="1011" alt="스크린샷 2023-09-13 오전 3 43 42" src="https://github.com/kjw4420/Recycle/assets/97749184/c51c4e95-4270-405b-a6e4-d60df987385a"><br>
-      **Result**
+                                    **Result**
 
 
 ## Reference: 
