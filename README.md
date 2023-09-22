@@ -1,5 +1,5 @@
 # 나는야 분리수거를 잘하는 어린이 재활용품 객체인식 Yolov5 api using flask🔥
-본 Recycle_api는 https://github.com/robmarkcole/yolov5-flask를 참조하여 **나는야 분리수거를 잘하는 어린이 재활용품**에 필요한 형태로 수정하였다.
+본 Recycle_api는 https://github.com/robmarkcole/yolov5-flask 를 참조하여 **나는야 분리수거를 잘하는 어린이 재활용품**에 필요한 형태로 수정하였다.
 
 POST 요청으로 재활용품 사진을 넣으면 객체인식 결과를 도출한다.
 ## restapi.py: 데이터 출력 형식 수정
