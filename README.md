@@ -36,8 +36,8 @@ def predict():
         img_result=temp.pandas().xyxy[0].to_json()
         
         res={
-            'result': img_result,
-            'img':  img_savename,
+            'result': img_result,   #결과값 Json 변환용
+            'img':  img_savename,   #이미지 파일
         }
         return jsonify(res)
 ```
