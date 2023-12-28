@@ -43,8 +43,9 @@ def predict():
 ```
 
 ## 요청 test
+<div align="center">
 <img width="682" alt="스크린샷 2023-11-13 오후 11 45 47" src="https://github.com/kjw4420/Recycle/assets/97749184/78eb1013-a4b1-463b-bf5e-7c2c8e27006f">
-
+</div>
 
 ## reference
 - [https://github.com/jzhang533/yolov5-flask](https://github.com/robmarkcole/yolov5-flask) (this repo was forked from here)
